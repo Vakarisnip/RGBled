@@ -197,7 +197,7 @@ disp = SH1106(
 )
 
 # Center "Hello World" using 5x5 + 1px spacing
-text = "HELLO WORLD"
+text = "HELLO"
 char_w = 5
 spacing = 1
 text_w = len(text) * (char_w + spacing) - spacing
